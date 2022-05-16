@@ -1,4 +1,4 @@
-MCMC sampler to estimate the posterior distributions of parameters that desribe the DM distirbution in an observed dwarf satellite.
+MCMC sampler to estimate the posterior distributions of parameters that desribe the DM distribution in an observed dwarf satellite.
 Authors: Tilman Hartwig & Kohei Hayashi
 
 USAGE:
